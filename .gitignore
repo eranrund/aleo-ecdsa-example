@@ -1,0 +1,6 @@
+*.avm
+*.prover
+*.verifier
+build/
+node_modules/
+outputs/
